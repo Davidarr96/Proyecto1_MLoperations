@@ -15,7 +15,8 @@ Nuetsro trabajo fue realizar el trabajo de ETL y EDA para lograr dichos resultad
 - [main.py](https://github.com/Davidarr96/Proyecto1_MLoperations/blob/main/main.py) -> archivo de codigo para la API.
 - [requirements.txt](https://github.com/Davidarr96/Proyecto1_MLoperations/blob/main/requirements.txt) -> archivo txt con lo requirementos para el deployado de nuestra api.
 
-##FUNCIONALIDADES DE LA API:
+## FUNCIONALIDADES DE LA API:
+
 🎉 Mensaje de bienvenida : [Hola](https://ejemplo-nombre-deploy-nhor.onrender.com)
 
 ✔️ Se ingresa el mes y la funcion retorna la cantidad de peliculas que se estrenaron ese mes (nombre del mes, en str, ejemplo 'enero') historicamente.
