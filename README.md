@@ -47,5 +47,5 @@ Nuestro trabajo fue realizar el trabajo de ETL y EDA para lograr dichos resultad
 
 ✨ MUCHAS GRACIAS ✨
 
-Agradezco el tiempo que te has tomado para testear mi api y darme un feedback 💪
+Agradezco el tiempo que te has tomado para testear mi API y darme un feedback 💪
 
