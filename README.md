@@ -1,8 +1,8 @@
 # Bienvenidos a mi proyecto para la carrera Data Scientist
 ![](https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png)
 
-En esta ocación, henry nos contrata como científicos de datos para realizar consultas a travez de una API y un sistema de  recomendacion de películas.
-Nuetsro trabajo fue realizar el trabajo de ETL y EDA para lograr dichos resultados, con el siguiente [Datasets](https://drive.google.com/file/d/1Rp7SNuoRnmdoQMa5LWXuK4i7W1ILblYb/view)
+En esta ocación, la empresa Henry nos contrata como científicos de datos para realizar consultas a travez de una API y un sistema de  recomendacion de películas.
+Nuestro trabajo fue realizar el trabajo de ETL y EDA para lograr dichos resultados, con el siguiente [Datasets](https://drive.google.com/file/d/1Rp7SNuoRnmdoQMa5LWXuK4i7W1ILblYb/view)
 
 ####  A CONTINUACION, DETALLAREMOS LOS ARCHIVOS LOGRADOS POR EL DEPARTAMENTO:
 
